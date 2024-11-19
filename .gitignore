@@ -11,3 +11,6 @@ signer.bat
 commands.txt
 debug.txt
 package-lock.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
